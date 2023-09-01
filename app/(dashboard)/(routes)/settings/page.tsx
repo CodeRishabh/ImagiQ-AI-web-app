@@ -15,7 +15,7 @@ const SettingsPage = () => {
       />
       <div className="px-4 lg:px-8 space-y-4">
         <div className="text-sm md:text-xl font-light text-black">
-          "Great customizations are on the way. You are currently on default free plan. Click your Avatar to manage your account."
+          Great customizations are on the way. You are currently on default free plan. Click your Avatar to manage your account.
         </div>
       </div>
     </div>
